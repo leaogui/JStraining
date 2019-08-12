@@ -10,3 +10,44 @@
     src: url('../fonts/Gibson-Regular.ttf');
 
 }
+
+body{
+
+
+    background-color: #B7B5E4;
+}
+
+
+div#interface{
+
+    background-color: rgb(201, 209, 243);
+    box-shadow: 0px 0px 2px rgb(0, 0, 0, 0.4);
+    border-bottom-left-radius: 10px; 
+    border-bottom-right-radius: 10px;
+    padding-bottom: 10px;
+}
+
+div#mid{
+
+    background-color: #BBC2E2;
+
+
+}
+
+aside{
+    float:right; 
+    width: 40%; 
+    float: right; 
+    padding:5px;  
+    margin:10px; 
+    height:100px;
+ 
+}
+
+section{
+
+    width: 50%; 
+  
+    padding:10px; 
+
+}
